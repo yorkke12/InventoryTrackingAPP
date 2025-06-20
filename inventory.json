@@ -1,0 +1,12 @@
+{
+  "123456789012": {
+    "name": "Widget",
+    "quantity": 9,
+    "price": 2.5
+  },
+  "987654321098": {
+    "name": "Gadget",
+    "quantity": 0,
+    "price": 5.0
+  }
+}
